@@ -1,4 +1,4 @@
-puts "What is your birthdate? Please use MMDDYYY format."
+puts "What is your birthdate? Please use MMDDYYYY format."
 
 birthdate = gets
 
